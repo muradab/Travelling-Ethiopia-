@@ -1,0 +1,23 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "collection",
+      "rootUri": "file:///C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.19.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "travelling_ethiopia",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    }
+  ],
+  "generated": "2024-06-19T09:44:49.109538Z",
+  "generator": "pub",
+  "generatorVersion": "3.5.0-93.0.dev",
+  "flutterRoot": "file:///C:/dev/flutter",
+  "flutterVersion": "3.22.0-16.0.pre.40",
+  "pubCache": "file:///C:/Users/user/AppData/Local/Pub/Cache"
+}
